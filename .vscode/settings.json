@@ -1,0 +1,6 @@
+{
+  "prettier.trailingComma": "all",
+  "prettier.bracketSpacing": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "prettier.insertPragma": false
+}
